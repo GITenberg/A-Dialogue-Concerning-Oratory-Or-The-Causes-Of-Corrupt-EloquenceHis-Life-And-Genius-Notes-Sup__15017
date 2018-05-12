@@ -1,0 +1,44 @@
+_repo: A-Dialogue-Concerning-Oratory-Or-The-Causes-Of-Corrupt-EloquenceHis-Life-And-Genius-Notes-Sup__15017
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tacitus, Cornelius
+    aliases:
+    - Tacitus, Caius Cornelius
+    - Tacitus, Publius Cornelius
+    - Tacitus, Gaius Cornelius
+    birthdate: 56
+    deathdate: 117
+    gutenberg_agent_id: '2591'
+    url: http://www.gutenberg.org/2009/agents/2591
+    wikipedia: http://en.wikipedia.org/wiki/Tacitus
+  editor:
+    agent_name: Murphy, Arthur
+    alias: Ranger, Charles
+    birthdate: 1727
+    deathdate: 1805
+    gutenberg_agent_id: '34475'
+    url: http://www.gutenberg.org/2009/agents/34475
+description: ''
+gutenberg_bookshelf: Classical Antiquity
+gutenberg_issued: '2005-02-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15017'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Oratory, Ancient'
+- !lcsh 'Dialogues, Latin'
+title: 'A Dialogue Concerning Oratory, Or The Causes Of Corrupt Eloquence
+
+  The Works Of Cornelius Tacitus, Volume 8 (of 8); With An Essay On
+
+  His Life And Genius, Notes, Supplements'
+url: http://www.gutenberg.org/ebooks/15017
